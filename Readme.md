@@ -1,6 +1,6 @@
 ---
-nomeAluno: "Seu nome"
-matricula: "Digite sua matrícula aqui por obséquio"
+nomeAluno: "Tharsyla Pereira Teodoseo"
+matricula: "581354"
 ---
 
 # Instalando o TKO e configurando o repositório

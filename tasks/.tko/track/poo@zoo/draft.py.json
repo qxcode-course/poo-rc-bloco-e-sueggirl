@@ -1,0 +1,14 @@
+{
+    "patches": [
+        {
+            "label": "2025-12-13_21-50-20",
+            "content": "@@ -1,40 +0,0 @@\n-class Zoo:%0A    if%0A%0A%0A%0A    ~lambda%0A%0A%0A%0A    \n",
+            "lines": "0"
+        },
+        {
+            "label": "2025-12-14_10-47-06",
+            "content": "class Zoo:\n    if\n\n\n\n    ~lambda\n\n\n\n    ",
+            "lines": "10"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "patches": [
+        {
+            "label": "2025-12-13_18-09-47",
+            "content": "@@ -1,47 +0,0 @@\n-raiserr%0Arr%0Ar%0Ar%0A%0Aff%0Af%0Af%0Aff%0Af%0Af%0Af%0Aff%0Af%0Af%0Af%0Af%0Af%0Af%0A\n",
+            "lines": "0"
+        },
+        {
+            "label": "2025-12-13_18-10-06",
+            "content": "@@ -1,231 +1,384 @@\n-raiserr%0Arr%0Ar%0Ar%0A%0Aff%0Af%0Af%0Aff%0Af%0Af%0Af%0Aff%0Af%0Af%0Af%0Af%0Af%0Af%0A%0Ad%0Ad%0Ad%0Ad%0A%0Adivmodd%0Ad%0A%0A%0A%0A%0Adivmod%0Ad%0Ad%0Adivmodd%0Ad%0Ad%0A\n+@@ -44,188 +44,4 @@%0A f%250Af%250A%0A-%250Ad%250Ad%250Ad%250Ad%250A%250Adivmodd%250Ad%250A%250A%250A%250A%250Adivmod%250Ad%250Ad%250Adivmodd%250Ad%250Ad%250A\n divmodd\n-%0A\n+%250A\n divmodd\n-%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0Ad%0A%0Ae%0Ae%0A%0A2%0A3%0A%0A2%0A2%0A3%0A2%0A%0A2%0A2%0A2%0A2%0A2%0A%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A%0A2%0A2%0A22%0A2%0A2%0A%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A2%0A\n+%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250Ad%250A%250Ae%250Ae%250A%250A2%250A3%250A%250A2%250A2%250A3%250A2%250A%250A2%250A2%250A2%250A2%250A2%250A%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A%250A2%250A2%250A22%250A2%250A2%250A%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A2%250A%250A\n %0A\n",
+            "lines": "3"
+        },
+        {
+            "label": "2025-12-13_19-02-59",
+            "content": "raiserr\nrr\nr\nr\n\nff\nf\nf\nff\nf\nf\nf\nff\nf\nf\nf\nf\nf\nf\n\nd\nd\nd\nd\n\ndivmodd\nd\n\n\n\n\ndivmod\nd\nd\ndivmodd\nd\nd\ndivmodd\ndivmodd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\nd\n\ne\ne\n\n2\n3\n\n2\n2\n3\n2\n\n2\n2\n2\n2\n2\n\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n\n2\n2\n22\n2\n2\n\n2\n2\n2\n2\n2\n2\n2\n2\n2\n\n",
+            "lines": "103"
+        }
+    ]
+}

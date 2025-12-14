@@ -1,0 +1,29 @@
+{
+    "patches": [
+        {
+            "label": "2025-12-13_23-48-42",
+            "content": "@@ -1,7 +0,0 @@\n-iyiyoup\n",
+            "lines": "0"
+        },
+        {
+            "label": "2025-12-13_23-49-03",
+            "content": "@@ -1,37 +1,7 @@\n-class Cofre:%0A    if%0A    if%0A    if not\n+iyiyoup\n",
+            "lines": "1"
+        },
+        {
+            "label": "2025-12-14_07-35-29",
+            "content": "@@ -1,140 +1,220 @@\n-class Cofre:%0A    if%0A    if%0A    if not%0A%0A%0A%0A%0A%0A%0A    rlelde%0A%0A%0A%0A    else%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A    white%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A    black%0A%0A%0A\n+@@ -34,218 +34,4 @@%0A  not%0A-%250A%250A%250A%250A%250A%250A%250A    rlelde%250A%250A%250A%250A    else%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A    white%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A    black%250A%250A%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     sets\n %0A   \n@@ -213,119 +213,158 @@\n sets\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     ss\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     ss\n-%0A\n+%250A\n     \n+%0A\n",
+            "lines": "3"
+        },
+        {
+            "label": "2025-12-14_07-52-28",
+            "content": "@@ -1,8 +1,29 @@\n+@@ -1,432 +1,326 @@%0A-\n class Co\n@@ -30,23 +30,29 @@\n fre:\n-%0A\n+%250A\n     if\n-%0A\n+%250A\n     if\n-%0A\n+%250A\n     \n@@ -61,107 +61,197 @@\n  not\n-%0A%0A%0A%0A%0A%0A%0A    rlelde%0A%0A%0A%0A    else%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A    white%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A    black%0A%0A%0A\n+%250A%250A%250A%250A%250A%250A%250A    rlelde%250A%250A%250A%250A    else%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A    white%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A%250A    black%250A%250A%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     sets\n %0A   \n@@ -250,300 +250,857 @@\n sets\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     ss\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A\n+%250A\n     s\n-%0A    s%0A    s%0A%0A%0A    aa%0A%0A    a%0A    a\n+%250A    s%250A    s%250A%250A%250A    aa%250A%250A%0A+@@ -231,202 +231,21 @@%250A   s%25250A%250A-%25250A%25250A%250A     %250A-aa%25250A%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A\n %0A    \n+ \n a%0A\n-    aa%0A    a%0A%0A    aa%0A%0A    aa%0A    a%0A    a%0A    a%0A%0A    a%0A    a\n+-%250A%0A+%25250A%0A     aa%0A-%250A%0A+%25250A%0A     a%0A-%250A%250A    aa%250A%250A%0A+%25250A%25250A    aa%25250A%25250A%0A     aa%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%250A%0A+%25250A%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A\n %0A    \n+ \n a%0A\n-    a%0A    a%0A    a%0A    a%0A    a%0A%0A    a%0A    a%0A    a%0A    a%0A    a%0A    a%0A    aa%0A    a%0A    a%0A    %0A    s%0A    ss\n+-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%250A%0A+%25250A%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     aa%0A-%250A%0A+%25250A%0A     a%0A-%250A%0A+%25250A%0A     a%0A-%250A    %250A    s%250A    ss%0A+%25250A    %25250A    %250A+s%25250A    s%250A s%25250A    %250A-ss%25250A%0A %250A\n %0A\n",
+            "lines": "82"
+        },
+        {
+            "label": "2025-12-14_08-50-14",
+            "content": "class Cofre:\n    if\n    if\n    if not\n\n\n\n\n\n\n    rlelde\n\n\n\n    else\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    white\n\n\n\n\n\n\n\n\n\n\n    black\n\n\n    s\n    s\n    sets\n    s\n    s\n    s\n    s\n    s\n    s\n    s\n    ss\n    s\n    s\n    s\n    s\n    s\n    s\n    s\n    s\n\n\n    aa\n\n    a\n    a\n    a\n    aa\n    a\n\n    aa\n\n    aa\n    a\n    a\n    a\n\n    a\n    a\n    a\n    a\n    a\n    a\n    a\n    a\n\n    a\n    a\n    a\n    a\n    a\n    a\n    aa\n    a\n    a\n    \n    s\n    ss\n",
+            "lines": "103"
+        }
+    ]
+}
