@@ -125,3 +125,4 @@
 2025-12-14 19:54:31, SELF, v:1, k:poo@estacionamento, rate:100, human:2, guide:2, alone:7, study:265
 2025-12-14 19:55:04, MOVE, v:1, k:poo@zoo, mode:PICK
 2025-12-14 19:55:05, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-14 20:02:10, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:2
