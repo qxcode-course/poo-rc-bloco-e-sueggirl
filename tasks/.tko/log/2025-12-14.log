@@ -204,3 +204,4 @@
 2025-12-14 23:13:51, SELF, v:1, k:poo@cofre, rate:30, other:fui_dormir, alone:8, study:180
 2025-12-14 23:14:13, MOVE, v:1, k:poo@cofre, mode:PICK
 2025-12-14 23:14:14, EXEC, v:1, k:poo@cofre, mode:FULL, rate:30, size:161
+2025-12-14 23:15:39, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160

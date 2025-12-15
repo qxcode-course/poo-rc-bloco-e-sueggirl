@@ -133,7 +133,7 @@ def main():
         elif args[0] == "show":
             print(pig)
 
-        elif args[0] == "addCoin":
+        elif args[0] == "addMoeda":
             value = args[1]
             pig.addValuable(Moeda[f"M{value}"])
 
@@ -146,12 +146,12 @@ def main():
         elif args[0] == "break":
             pig.breakPig()
 
-        elif args[0] == "extractCoins":
+        elif args[0] == "extrairCoins":
             moedas = pig.getMoedas()
             if moedas:
                 print("[" + ", ".join(str(c) for d in moedas) + "]")
 
-        elif args[0] == "extractItems":
+        elif args[0] == "extrairItems":
             items = pig.getItems()
             if items:
                 print("[" + ", ".join(str(i) for i in items) + "]")
