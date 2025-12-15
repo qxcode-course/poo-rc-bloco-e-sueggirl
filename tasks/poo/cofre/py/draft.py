@@ -149,7 +149,7 @@ def main():
         elif args[0] == "extrairCoins":
             moedas = pig.getMoedas()
             if moedas:
-                print("[" + ", ".join(str(c) for d in moedas) + "]")
+                print("[" + ", ".join(str(c) for i in moedas) + "]")
 
         elif args[0] == "extrairItems":
             items = pig.getItems()
