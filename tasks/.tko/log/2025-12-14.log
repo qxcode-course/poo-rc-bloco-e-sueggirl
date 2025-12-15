@@ -149,3 +149,58 @@
 2025-12-14 20:34:26, MOVE, v:1, k:poo@zoo, mode:BACK
 2025-12-14 20:34:28, MOVE, v:1, k:poo@zoo, mode:PICK
 2025-12-14 20:34:30, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-14 20:37:58, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-14 20:38:05, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 20:38:14, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 20:38:15, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-14 20:38:16, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0
+2025-12-14 20:56:50, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:16
+2025-12-14 20:56:50, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:16
+2025-12-14 20:56:50, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 20:56:53, MOVE, v:1, k:poo@shapes, mode:PICK
+2025-12-14 20:56:54, EXEC, v:1, k:poo@shapes, mode:FULL, rate:0, size:0
+2025-12-14 21:12:22, EXEC, v:1, k:poo@shapes, mode:FULL, rate:100, size:118
+2025-12-14 21:12:33, EXEC, v:1, k:poo@shapes, mode:FULL, rate:100, size:118
+2025-12-14 21:12:58, EXEC, v:1, k:poo@shapes, mode:FULL, rate:80, size:118
+2025-12-14 21:14:09, EXEC, v:1, k:poo@shapes, mode:FULL, rate:80
+2025-12-14 21:14:10, MOVE, v:1, k:poo@shapes, mode:BACK
+2025-12-14 21:14:28, MOVE, v:1, k:poo@shapes, mode:PICK
+2025-12-14 21:14:29, EXEC, v:1, k:poo@shapes, mode:FULL, rate:100, size:118
+2025-12-14 21:14:30, EXEC, v:1, k:poo@shapes, mode:FULL, rate:100
+2025-12-14 21:14:31, MOVE, v:1, k:poo@shapes, mode:BACK
+2025-12-14 21:15:17, SELF, v:1, k:poo@shapes, rate:100, human:2, alone:6, study:180
+2025-12-14 21:15:48, MOVE, v:1, k:poo@cofre, mode:PICK
+2025-12-14 21:15:49, EXEC, v:1, k:poo@cofre, mode:FULL, rate:0
+2025-12-14 21:18:53, EXEC, v:1, k:poo@cofre, mode:FULL, rate:0
+2025-12-14 21:18:54, MOVE, v:1, k:poo@cofre, mode:BACK
+2025-12-14 21:18:56, MOVE, v:1, k:poo@cofre, mode:PICK
+2025-12-14 21:19:09, MOVE, v:1, k:poo@cofre, mode:BACK
+2025-12-14 21:19:12, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 21:19:12, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:0, size:18
+2025-12-14 21:24:20, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100, size:26
+2025-12-14 21:24:23, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 21:24:34, MOVE, v:1, k:poo@zoo, mode:PICK
+2025-12-14 21:24:35, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:35, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:36, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:36, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:37, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:37, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:37, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:38, EXEC, v:1, k:poo@zoo, mode:LOCK, rate:100
+2025-12-14 21:24:43, MOVE, v:1, k:poo@zoo, mode:BACK
+2025-12-14 21:24:57, MOVE, v:1, k:poo@cofre, mode:PICK
+2025-12-14 21:24:58, EXEC, v:1, k:poo@cofre, mode:FULL, rate:0
+2025-12-14 22:52:00, EXEC, v:1, k:poo@cofre, mode:FULL, rate:0
+2025-12-14 22:52:01, MOVE, v:1, k:poo@cofre, mode:BACK
+2025-12-14 23:09:28, MOVE, v:1, k:poo@cofre, mode:PICK
+2025-12-14 23:09:29, EXEC, v:1, k:poo@cofre, mode:FULL, rate:0
+2025-12-14 23:10:02, EXEC, v:1, k:poo@cofre, mode:FULL, rate:0, size:178
+2025-12-14 23:10:16, EXEC, v:1, k:poo@cofre, mode:FULL, rate:40, size:178
+2025-12-14 23:10:45, EXEC, v:1, k:poo@cofre, mode:FULL, rate:40, size:175
+2025-12-14 23:11:15, EXEC, v:1, k:poo@cofre, mode:FULL, rate:40, size:164
+2025-12-14 23:12:58, EXEC, v:1, k:poo@cofre, mode:FULL, rate:30, size:164
+2025-12-14 23:13:13, MOVE, v:1, k:poo@cofre, mode:BACK
+2025-12-14 23:13:51, SELF, v:1, k:poo@cofre, rate:30, other:fui_dormir, alone:8, study:180
+2025-12-14 23:14:13, MOVE, v:1, k:poo@cofre, mode:PICK
+2025-12-14 23:14:14, EXEC, v:1, k:poo@cofre, mode:FULL, rate:30, size:161

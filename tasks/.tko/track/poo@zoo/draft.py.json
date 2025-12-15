@@ -12,8 +12,18 @@
         },
         {
             "label": "2025-12-14_20-02-10",
-            "content": "class Zoo:\n    ",
-            "lines": "2"
+            "content": "@@ -1,29 +1,48 @@\n-class Zoo:%0A    e%0A%0A%0A\n+@@ -12,72 +12,4 @@%0A     %0A-e%250A%250A%250A\n     e\n-%0A\n+%250A\n     \n@@ -50,69 +50,74 @@\n life\n-%0A%0A%0A    o%0A    o%0A    o%0A    o%0A    oro%0A    oo%0A    o%0A    o%0A    o%0A    o\n+%250A    e%250A    e%250A    e%250A    e%250A    e%250A    e%250A%250A%250A    e%250A    %0A\n",
+            "lines": "3"
+        },
+        {
+            "label": "2025-12-14_21-19-12",
+            "content": "@@ -1,483 +1,99 @@\n-from abc import ABC, abstractmethod%0A%0Aclass Animal(ABC):%0A    def __init__(self, nome: str):%0A        self.nome = nome%0A%0A    def getNome(self):%0A        return self.nome%0A    %0A    @abstractmethod%0A    def apresentar(self) -%3E str:%0A        pass%0A%0A    @abstractmethod%0A    def fazerSom(self) -%3E str:%0A        pass%0A%0A    @abstractmethod%0A    def mover(self) -%3E str:%0A        pass%0A%0Adef apresentar(animal: Animal):%0A    print(animal.apresentar())%0A    print(animal.fazerSom())%0A    print(animal.mover())%0A%0A\n+class Zoo:%0A    e%0A%0A%0A    e%0A    elife%0A%0A%0A    o%0A    o%0A    o%0A    o%0A    oro%0A    oo%0A    o%0A    o%0A    o%0A    o\n",
+            "lines": "18"
+        },
+        {
+            "label": "2025-12-14_21-24-20",
+            "content": "from abc import ABC, abstractmethod\n\nclass Animal(ABC):\n    def __init__(self, nome: str):\n        self.nome = nome\n\n    def getNome(self):\n        return self.nome\n    \n    @abstractmethod\n    def apresentar(self) -> str:\n        pass\n\n    @abstractmethod\n    def fazerSom(self) -> str:\n        pass\n\n    @abstractmethod\n    def mover(self) -> str:\n        pass\n\ndef apresentar(animal: Animal):\n    print(animal.apresentar())\n    print(animal.fazerSom())\n    print(animal.mover())\n\n",
+            "lines": "26"
         }
     ]
 }
