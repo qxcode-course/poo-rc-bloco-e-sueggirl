@@ -22,7 +22,7 @@ tasks:
   poo@pagamento: '{rate:80, human:2, iagen:2, alone:5, study:190}'
   poo@shapes: '{rate:100, human:2, alone:6, study:180}'
   poo@estacionamento: '{rate:100, human:2, guide:2, alone:7, study:265}'
-  poo@cofre: '{rate:30, other:fui_dormir, alone:8, study:180}'
+  poo@cofre: '{rate:10, other:fui_dormir, alone:8, study:180}'
 flags:
   quests: 0
   tracks: 0
@@ -30,4 +30,4 @@ flags:
   graph: 1
   xray: 0
 lang: py
-selected: poo@cofre
+selected: poo@shapes

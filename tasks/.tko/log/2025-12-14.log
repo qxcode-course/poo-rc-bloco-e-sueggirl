@@ -207,3 +207,16 @@
 2025-12-14 23:15:39, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
 2025-12-14 23:17:05, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
 2025-12-14 23:17:14, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:18:32, MOVE, v:1, k:poo@cofre, mode:BACK
+2025-12-14 23:18:39, MOVE, v:1, k:poo@cofre, mode:PICK
+2025-12-14 23:18:41, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10
+2025-12-14 23:19:26, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:19:38, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:19:44, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:20:12, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:20:14, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10
+2025-12-14 23:21:05, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:21:06, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10
+2025-12-14 23:21:38, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:22:08, EXEC, v:1, k:poo@cofre, mode:FULL, rate:10, size:160
+2025-12-14 23:22:11, MOVE, v:1, k:poo@cofre, mode:BACK

@@ -80,14 +80,14 @@ class Pig:
         self._broken = True
         return True
 
-    def getCoins(self):
+    def getMoedas(self):
         if not self._broken:
             print("fail: you must break the pig first")
             return []
 
-        coins = [v for v in self._valuables if isinstance(v, Moeda)]
+        moedas = [v for v in self._valuables if isinstance(v, Moeda)]
         self._valuables = [v for v in self._valuables if not isinstance(v, Moeda)]
-        return coins
+        return moedas
 
     def getItems(self):
         if not self._broken:
@@ -146,10 +146,10 @@ def main():
         elif args[0] == "break":
             pig.breakPig()
 
-        elif args[0] == "extrairCoins":
+        elif args[0] == "extrairMoedas":
             moedas = pig.getMoedas()
             if moedas:
-                print("[" + ", ".join(str(c) for i in moedas) + "]")
+                print("[" + ", ".join(str(c) for c in moedas) + "]")
 
         elif args[0] == "extrairItems":
             items = pig.getItems()
